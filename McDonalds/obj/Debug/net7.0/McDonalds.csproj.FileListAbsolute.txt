@@ -1,0 +1,15 @@
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\McDonalds.csproj.AssemblyReference.cache
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\McDonalds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\McDonalds.AssemblyInfoInputs.cache
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\McDonalds.AssemblyInfo.cs
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\McDonalds.csproj.CoreCompileInputs.cache
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\bin\Debug\net7.0\McDonalds.exe
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\bin\Debug\net7.0\McDonalds.deps.json
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\bin\Debug\net7.0\McDonalds.runtimeconfig.json
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\bin\Debug\net7.0\McDonalds.dll
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\bin\Debug\net7.0\McDonalds.pdb
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\McDonalds.dll
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\refint\McDonalds.dll
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\McDonalds.pdb
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\McDonalds.genruntimeconfig.cache
+C:\Users\carolina.poffo\source\repos\ProgramacaoOrientadaAObjetosPOO\McDonalds\obj\Debug\net7.0\ref\McDonalds.dll

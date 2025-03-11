@@ -9,18 +9,18 @@ namespace McDonalds
 {
     public class Produto
     {
-        public string Nome;
-        public double Preco;
+        public string Nome { get; set; }
+        public double Preco { get; set; }
 
-        public Produto(string nome, double preço)
+        public Produto(string nome, double preco)
         {
             Nome = nome;
-            Preco = preço;
+            Preco = preco;
         }
 
-        public void Mostrar()
+        public override string ToString()
         {
-            Console.WriteLine($"{Nome} - {Preco}");
+            return $"{Nome}: R${Preco:F2}";
         }
     }
 }

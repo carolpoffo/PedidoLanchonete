@@ -3,43 +3,41 @@ using System.Collections.Generic;
 
 namespace McDonalds
 {
-    public class Pedido
+    class Pedido
     {
-        public int NumeroPedido;
+        public int Numero { get; set; }
+        public List<Produto> Itens { get; set; }
 
-        public List<Produto> Produtos;
-
-        public Pedido(int numeroPedido)
+        public Pedido(int numero)
         {
-            NumeroPedido = numeroPedido;
-            Produtos = new List<Produto>();
+            Numero = numero;
+            Itens = new List<Produto>();
         }
 
-        public void AdicionarProduto(Produto produto)
+        public void AdicionarItem(Produto produto)
         {
-            Produtos.Add(produto);
+            Itens.Add(produto);
         }
 
         public double CalcularTotal()
         {
             double total = 0;
-            foreach (var produto in Produtos)
+            foreach (var produto in Itens)
             {
-                total += produto.Preço;
+                total += produto.Preco;
             }
             return total;
         }
 
         public void ExibirPedido()
         {
-            Console.WriteLine($"Pedido #{NumeroPedido}");
+            Console.WriteLine($"Pedido #{Numero}");
             Console.WriteLine("Itens:");
-            foreach (var produto in Produtos)
+            foreach (var produto in Itens)
             {
-                Console.WriteLine($"- {produto.Nome} - R${produto.Preço:F2}"); 
+                Console.WriteLine($"- {produto}");
             }
             Console.WriteLine($"Total: R${CalcularTotal():F2}");
-            Console.WriteLine("");  
         }
     }
 }
